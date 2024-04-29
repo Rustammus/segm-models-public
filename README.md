@@ -232,6 +232,10 @@ trainer.py строка 120 self._scheduler = torch.optim.lr_scheduler.CosineAnn
 ![Сравнение архитектур проекта Segmentation models по mIOU](./img/nets.jpg "Сравнение архитектур проекта Segmentation models по mIOU")
 
 
+8. Результаты эксперементов обучения с различными параметрами.
+![Результаты экспериментов](./img/nets.jpg "Сравнение архитектур проекта Segmentation models по mIOU")
+
+
 
 
 
