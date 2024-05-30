@@ -6,7 +6,16 @@ https://docs.google.com/spreadsheets/d/1NlG5yLEFSjvPqFTi0v1aBQMqhFS7W2CelVXlGF2B
 
 # Получение результатов сети на изображениях <a name="validation"></a>
 
+Запустите скрипт установки зависимостей:
+```
+
+bash install.sh
+
+```
+
 validate.py позволяет работать с моделями, обученными только на один класс.
+
+Обученные модели хранятся в папке trained_models
 
 Пропустить все картинки через сеть можно двумя командами:
 ```
